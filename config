@@ -1,0 +1,9 @@
+default_storage = file://
+limit_ncpus = 0
+rpc_announce = true
+rpc_announce_broadcast = false
+rpc_knownclients = 
+rpc_server = false
+use_CUDA = false
+use_OpenCL = true
+workunit_size = 75000
